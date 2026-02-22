@@ -500,10 +500,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "ouputs/gbr_protel/",
+      "plot": "assets/gbr_default/",
       "pos_files": "ouputs/gbr_default/",
       "specctra_dsn": "",
-      "step": "ouputs/bga_0201_rect.stl",
+      "step": "assets/bga_0201_rect.stl",
       "svg": "",
       "vrml": ""
     },
